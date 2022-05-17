@@ -1,5 +1,7 @@
 # JS Dev Course
 
+> [pt-br version](README-PTBR.md)  
+
 Course designed to teach javascript through projects, starting from scratch and advancing, taught by *EmersonBraun*
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/EmersonBraun/js-dev-course?style=for-the-badge)

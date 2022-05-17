@@ -1,56 +1,59 @@
-# AULA
+> [pt-br version](README-PTBR.md)
 
-- crie um arquivo html no arquivo deve conter
+
+# CLASS
+
+- create an html file in the file must contain
     - 3 cards
-    - 1 card para pedra
-    - 1 card para papel
-    - 1 card para tesoura
-    - uma mensagem de quem ganhou, perdeu ou empate
-- quando clicar em um dos cards, essa será escolhida a jogada do jogador
-- deve ser escolhida aleatoriamente uma jogada para o computador
-- deve mostrar quem ganhou ou perdeu, ou se foi empate, seguindo a lógica
-    - jogadas iguais => empate
-    - pedra < papel
-    - pedra > tesoura
+    - 1 card for stone
+    - 1 paper card
+    - 1 card for scissors
+    - a message of who won, lost or tied
+- when clicking on one of the cards, it will be chosen the player's move
+- a move must be randomly chosen for the computer
+- must show who won or lost, or if it was a tie, following the logic
+    - equal moves => draw
+    - stone < paper
+    - rock > scissors
 
-    - papel > pedra
-    - papel < tesoura
+    - paper > stone
+    - paper < scissors
 
-    - tesoura > papel
-    - tesoura < pedra
+    - scissors > paper
+    - scissors < stone
 
 
-# DESAFIO 01
+# CHALLENGE 01
 
-- adicionar uma tabela que contenha os resultados de vitórias, empates e derrotas do jogador
+- add a table that contains the results of player wins, draws and losses
 
-# DESAFIO 02
+# CHALLENGE 02
 
-- adicionar as opções "lagarto" e "spock", sendo que:
-    - jogadas iguais => empate
-    - pedra < papel
-    - pedra > tesoura
-    - pedra > lagarto
-    - pedra < spock
+- add the options "lizard" and "spock", where:
+    - equal moves => draw
+    - stone < paper
+    - rock > scissors
+    - stone > lizard
+    - stone < spock
 
-    - papel > pedra
-    - papel < tesoura
-    - papel < lagarto
-    - papel > spock
+    - paper > stone
+    - paper < scissors
+    - paper < lizard
+    - paper > spock
 
-    - tesoura > papel
-    - tesoura < pedra
-    - tesoura > lagarto
-    - tesoura < spock
+    - scissors > paper
+    - scissors < stone
+    - scissors > lizard
+    - scissors < spock
 
-    - lagarto > papel
-    - lagarto < pedra
-    - lagarto < pedra
-    - lagarto > spock
+    - lizard > paper
+    - lizard < stone
+    - lizard < stone
+    - lizard > spock
 
-    - spock < papel
-    - spock > pedra
-    - spock < lagarto
-    - spock > tesoura
+    - spock < paper
+    - spock > stone
+    - spock < lizard
+    - spock > scissors
 
-[Voltar](../README.md)
+[Back](../README.md)
