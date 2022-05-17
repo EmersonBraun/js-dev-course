@@ -22,10 +22,13 @@
     - scissors > paper
     - scissors < stone
 
+![](./gifs/class.gif)
 
 # CHALLENGE 01
 
 - add a table that contains the results of player wins, draws and losses
+
+![](./gifs/challenge-1.gif)
 
 # CHALLENGE 02
 
@@ -55,5 +58,6 @@
     - spock > stone
     - spock < lizard
     - spock > scissors
+![](./gifs/challenge-2.gif)
 
 [Back](../README.md)

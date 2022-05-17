@@ -22,10 +22,13 @@
     - tesoura > papel
     - tesoura < pedra
 
+![](./gifs/class.gif)
 
 # DESAFIO 01
 
 - adicionar uma tabela que contenha os resultados de vitórias, empates e derrotas do jogador
+
+![](./gifs/challenge-1.gif)
 
 # DESAFIO 02
 
@@ -55,5 +58,7 @@
     - spock > pedra
     - spock < lagarto
     - spock > tesoura
+
+![](./gifs/challenge-2.gif)
 
 [Voltar](../README-PTBR.md)
