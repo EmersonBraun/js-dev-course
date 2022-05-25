@@ -15,9 +15,9 @@ Course designed to teach javascript through projects, starting from scratch and 
 
 The project is still in development and as it is updated it will be changed here:
 
-- [x] [Switch Light](1-switch-light/README.md)
-- [x] [Jokempo](2-jokempo/README.md)
-- [ ] Countdown
+- [x] [Switch Light](switch-light/README.md)
+- [x] [Jokempo](jokempo/README.md)
+- [x] [Countdown](countdown/README.md)
 - [ ] Roman to decimal
 
 
