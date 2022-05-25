@@ -37,6 +37,33 @@ function fromRoman(romanString) {
     return integer;
 }
 
+function printToRoman() {
+    const value = document.getElementById('input').value
+    console.log(value)
+    if(isNaN(+value)) {
+        return
+    } else {
+        document.getElementById('output').innerHTML = toRoman(value)
+    }
+}
+
+function printFromRoman() {
+    const value = document.getElementById('input').value
+    console.log(value)
+    if(!isNaN(+value)) {
+        document.getElementById('output').innerHTML = ''
+    } else {
+        document.getElementById('output').innerHTML = fromRoman(value)
+    }
+}
+
+function clear() {
+    const value = document.getElementById('input').value
+    console.log(value)
+    if(value.length === 0) {
+        document.getElementById('output').innerHTML = ''
+    }
+}
 const romanYear = toRoman(2022)
 console.assert(romanYear === 'MMXXII')
 console.log(fromRoman(romanYear) === 2022)

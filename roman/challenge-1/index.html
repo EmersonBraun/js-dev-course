@@ -13,17 +13,17 @@
 <body>
     <div class="row">
         <div class="card">
-            <input type="text" class="input" id="romanToDecimal" placeholder="Roman to Decimal"/>
-            <label for="romanToDecimal" class="label">Roman to Decimal</label>
-            <h1></h1>
+            <input type="text" class="input" id="input" placeholder="Roman to Decimal" onkeydown="clear()"/>
         </div>
     </div>
     <div class="row">
-        <div class="card">
-            <input type="text" class="input" id="decimalToRoman" placeholder="Decimal to Roman"/>
-            <label for="decimalToRoman" class="label">Decimal to Roman</label>
-            <h1></h1>
+        <div class="btn-group">
+            <button class="btn" onclick="printToRoman()">TO ROMAN</button>
+            <button class="btn" onclick="printFromRoman()">TO DECIMAL</button>
         </div>
+    </div>
+    <div class="row">
+        <h1 id="output"></h1>
     </div>
     <script src="index.js"></script>
 </body>
