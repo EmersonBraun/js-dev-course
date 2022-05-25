@@ -13,7 +13,7 @@ body {
   background: #0f2027; /* fallback for old browsers */
   background: linear-gradient(to right,#7093a3, #3b6b7a, #2e647a);
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -22,7 +22,6 @@ body {
 
 .card {
     border-radius: 5px;
-    padding: 30px 25px 50px 25px;
     margin: 20px;
     width: 500px;
 }
@@ -61,4 +60,32 @@ body {
   visibility: hidden;
   -webkit-transform: translateY(-4rem);
   transform: translateY(-4rem);
+}
+
+.btn {
+  padding: 1.5em 6.5em;
+  border: solid 1px #2e647a;
+  border-radius: 4px;
+  display: inline-block;
+  text-align: center;
+}
+.btn:hover,
+.btn:focus {
+  cursor: pointer;
+  background-color: #2e647a;
+  color: #fff;
+}
+.btn-group {
+  display: inline-flex;
+  border: 1px solid #2e647a;
+  overflow: hidden;
+  border-radius: 4px;  
+}
+.btn-group > .btn {
+  border-radius: 0;
+  border: none;
+  border-right: 1px solid #2e647a;
+}
+.btn-group > .btn:last-child {
+  border-right: none;
 }
