@@ -9,14 +9,14 @@
 - se lâmpada deve ser acesa quando passar o mouse em cima, desligar quando tirar o mouse de cima da lâmpada e "quebrar" quando clicar e assim permanecer
 
 ![](./gifs/class.gif)
-# DESAFIO 01
+# [DESAFIO 01](./challenge-1/README-PTBR.md)
 
 - crie um arquivo html contendo uma tag de imagem
 - quando carregado o arquivo deve exibir a imagem da lampada apagada
 - quando clicar na lâmpada deve ficar alternando a cada clique a imagem da lampada acesa e apagada
 
 ![](./gifs/challenge-1.gif)
-# DESAFIO 02
+# [DESAFIO 02](./challenge-2/README-PTBR.md)
 
 - crie um arquivo html no arquivo deve conter
     - a imagem
