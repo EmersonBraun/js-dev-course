@@ -2,7 +2,10 @@
 
 # DESAFIO 01
 
-- 
+- adicionar jogada do computador:
+    - deve ser o  jogador  "O"
+    - deve executar sempre depois da jogada do jogador
+    - deve ser apenas jogadas válidas
 
 ![](../gifs/challenge-1.gif)
 

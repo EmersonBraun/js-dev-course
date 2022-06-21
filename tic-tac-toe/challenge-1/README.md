@@ -2,7 +2,10 @@
 
 # CHALLENGE 01
 
-- 
+- add computer play:
+    - must be player "O"
+    - must always run after the player's move
+    - must be valid plays only
 
 ![](../gifs/challenge-1.gif)
 

@@ -15,10 +15,16 @@ Curso desenvolvido para ensinar javascript por meio de projetos, começando do z
 
 O projeto ainda está em desenvolvimento e conforme for atualizado será alterado aqui:
 
-- [x] [Switch Light](1-switch-light/README-PTBR.md)
-- [x] [Jokempo](2-jokempo/README-PTBR.md)
-- [ ] Contagem regressiva
-- [ ] Romano para decimal
+- [x] [Switch Light](switch-light/README-PTBR.md)
+- [x] [Jokempo](jokempo/README-PTBR.md)
+- [x] [Contagem regressiva](countdown/README-PTBR.md)
+- [x] [Jogo da Velha](tic-tac-toe/README-PTBR.md)
+- [x] [Romano para decimal](roman/README-PTBR.md)
+- [ ] jogo da forca
+- [ ] Binário para decimal
+- [ ] Gerador de código QR
+- [ ] Efeito matriz
+- [ ] Pintar
 
 
 ## 💻 Pré-requisitos
@@ -35,7 +41,7 @@ Linux e macOS:
 <install_command>
 ```
 
-Janelas:
+Windows:
 ```
 <install_command>
 ```
