@@ -17,6 +17,7 @@ O projeto ainda está em desenvolvimento e conforme for atualizado será alterad
 
 - [x] [Switch Light](switch-light/README-PTBR.md)
 - [x] [Jokempo](jokempo/README-PTBR.md)
+- [x] [IMC](bmi/README-PTBR.md)
 - [x] [Contagem regressiva](countdown/README-PTBR.md)
 - [x] [Jogo da Velha](tic-tac-toe/README-PTBR.md)
 - [x] [Romano para decimal](roman/README-PTBR.md)
@@ -25,7 +26,6 @@ O projeto ainda está em desenvolvimento e conforme for atualizado será alterad
 - [ ] Gerador de código QR
 - [ ] Efeito matriz
 - [ ] Pintar
-
 
 ## 💻 Pré-requisitos
 

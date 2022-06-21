@@ -17,6 +17,7 @@ The project is still in development and as it is updated it will be changed here
 
 - [x] [Switch Light](switch-light/README.md)
 - [x] [Jokempo](jokempo/README.md)
+- [x] [BMI](bmi/README.md)
 - [x] [Countdown](countdown/README.md)
 - [x] [Tic Tac Toe](tic-tac-toe/README.md)
 - [x] [Roman to decimal](roman/README.md)
@@ -25,7 +26,6 @@ The project is still in development and as it is updated it will be changed here
 - [ ] QR Code Generator
 - [ ] Matrix effect
 - [ ] Paint
-
 
 
 ## 💻 Prerequisites
