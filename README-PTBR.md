@@ -21,6 +21,7 @@ O projeto ainda está em desenvolvimento e conforme for atualizado será alterad
 - [x] [Contagem regressiva](countdown/README-PTBR.md)
 - [x] [Jogo da Velha](tic-tac-toe/README-PTBR.md)
 - [x] [Romano para decimal](roman/README-PTBR.md)
+- [X] [Efeito Matrix](matrix/README.md)
 - [ ] jogo da forca
 - [ ] Binário para decimal
 - [ ] Gerador de código QR

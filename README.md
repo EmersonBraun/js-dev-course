@@ -21,6 +21,7 @@ The project is still in development and as it is updated it will be changed here
 - [x] [Countdown](countdown/README.md)
 - [x] [Tic Tac Toe](tic-tac-toe/README.md)
 - [x] [Roman to decimal](roman/README.md)
+- [X] [Matrix effect](matrix/README.md)
 - [ ] Hangman game
 - [ ] Binary to decimal
 - [ ] QR Code Generator
