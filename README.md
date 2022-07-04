@@ -19,9 +19,14 @@ The project is still in development and as it is updated it will be changed here
 - [x] [Jokempo](jokempo/README.md)
 - [x] [BMI](bmi/README.md)
 - [x] [Countdown](countdown/README.md)
-- [X] [Roman to decimal](roman/README.md)
+- [x] [Tic Tac Toe](tic-tac-toe/README.md)
+- [x] [Roman to decimal](roman/README.md)
 - [X] [Matrix effect](matrix/README.md)
-- [ ] [Tic Tac Toe](tic-tac-toe/README.md)
+- [ ] Hangman game
+- [ ] Binary to decimal
+- [ ] QR Code Generator
+- [ ] Matrix effect
+- [ ] Paint
 
 
 ## 💻 Prerequisites
