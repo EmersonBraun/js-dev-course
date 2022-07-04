@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
-const FONT_SIZE = 16;
+const FONT_SIZE = 18;
 const COLUMNS = canvas.width / FONT_SIZE;
 
 let TEXTS = [0,1,2,3,4,5,6,7,8,9]

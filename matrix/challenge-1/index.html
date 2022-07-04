@@ -10,9 +10,13 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="container" id="title" style="display: none;">
+        <h1>Enjoy your life!</h1>
+    </div>
+    <div class="container" id="buttons">
         <div class="box">
-            <button onclick="startDrawn()">Enter on Matrix</button>
+            <button class="button-blue" onclick="continueInTheLie()">Do not enter the matrix</button>
+            <button class="button-red" onclick="startDrawn()">Enter the Matrix</button>
         </div>
     </div>
     <canvas id="canvas"></canvas>

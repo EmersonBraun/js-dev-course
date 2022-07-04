@@ -7,7 +7,6 @@ body{
 .container {
     width: 100vw;
     height: 100vh;
-    background: #fff;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,8 +19,8 @@ body{
     background: #fff;
 }
 
-button {
-    background-color: #4CAF50;
+.button-red {
+    background-color: #af4c4c;
     border: none;
     color: white;
     padding: 16px 32px;
@@ -34,10 +33,47 @@ button {
     cursor: pointer;
     background-color: white;
     color: black;
-    border: 2px solid #4CAF50;
+    border: 2px solid #af4c4c;
 }
 
-button:hover {
-    background-color: #4CAF50;
+.button-red:hover {
+    background-color: #af4c4c;
     color: white;
+}
+
+.button-blue {
+    background-color: #4c6baf;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 200px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 2px solid #4c6baf;
+}
+
+.button-blue:hover {
+    background-color: #4c6baf;
+    color: white;
+}
+
+.img {
+    position: relative;
+    width: 100vw;
+    height: auto;
+    background: url('./matrix.jpg');
+    background-size: cover;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
 }
