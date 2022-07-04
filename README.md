@@ -20,6 +20,7 @@ The project is still in development and as it is updated it will be changed here
 - [x] [BMI](bmi/README.md)
 - [x] [Countdown](countdown/README.md)
 - [X] [Roman to decimal](roman/README.md)
+- [X] [Matrix effect](matrix/README.md)
 - [ ] [Tic Tac Toe](tic-tac-toe/README.md)
 
 

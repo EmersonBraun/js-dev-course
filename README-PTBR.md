@@ -20,6 +20,7 @@ O projeto ainda está em desenvolvimento e conforme for atualizado será alterad
 - [x] [IMC](bmi/README-PTBR.md)
 - [x] [Contagem regressiva](countdown/README-PTBR.md)
 - [X] [Romano para decimal](roman/README-PTBR.md)
+- [X] [Efeito Matrix](matrix/README.md)
 - [ ] [Jogo da velha](tic-tac-toe/README-PTBR.md)
 
 
