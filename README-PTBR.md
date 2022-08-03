@@ -22,11 +22,29 @@ O projeto ainda está em desenvolvimento e conforme for atualizado será alterad
 - [x] [Jogo da Velha](tic-tac-toe/README-PTBR.md)
 - [x] [Romano para decimal](roman/README-PTBR.md)
 - [X] [Efeito Matrix](matrix/README.md)
-- [ ] jogo da forca
+- [x] [Jogo da memória](memory/README-PTBR.md)
 - [ ] Binário para decimal
+- [ ] jogo da forca
 - [ ] Gerador de código QR
-- [ ] Efeito matriz
-- [ ] Pintar
+- [ ] Paint
+- [ ] Mario Salto
+- [ ] Introdução de Star Wars
+- [ ] Sound Board
+- [ ] Etapas de Progresso
+- [ ] Event Keycodes
+- [ ] Beba água
+- [ ] Background Slider
+- [ ] Relógio temático
+- [ ] Drag and Drop
+- [ ] Efeito de texto automático
+- [ ] Perfis do Github
+- [ ] Gerador de senhas
+- [ ] Aplicativo de teste
+- [ ] Lista de afazeres
+- [ ] Jogo de captura de insetos
+- [ ] Encurtador de URL
+- [ ] Pokédex
+- [ ] Feed com imagens aleatórias
 
 ## 💻 Pré-requisitos
 

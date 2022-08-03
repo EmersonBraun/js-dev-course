@@ -22,11 +22,30 @@ The project is still in development and as it is updated it will be changed here
 - [x] [Tic Tac Toe](tic-tac-toe/README.md)
 - [x] [Roman to decimal](roman/README.md)
 - [X] [Matrix effect](matrix/README.md)
-- [ ] Hangman game
+- [x] [Memory game](memory/README.md)
 - [ ] Binary to decimal
+- [ ] Hangman game
 - [ ] QR Code Generator
-- [ ] Matrix effect
 - [ ] Paint
+- [ ] Mario Jump
+- [ ] Star Wars Intro
+- [ ] Sound Board
+- [ ] Progress Steps
+- [ ] Event Keycodes
+- [ ] Drink Water
+- [ ] Background Slider
+- [ ] Theme Clock
+- [ ] Drag and Drop
+- [ ] Drawing
+- [ ] Auto Text Effect
+- [ ] Github profiles
+- [ ] Password Generator
+- [ ] Quiz App
+- [ ] TODO List
+- [ ] Insect Catch Game
+- [ ] Url shortener
+- [ ] Pokedex
+- [ ] Random image feed
 
 
 ## 💻 Prerequisites
