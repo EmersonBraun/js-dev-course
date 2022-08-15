@@ -23,9 +23,9 @@ The project is still in development and as it is updated it will be changed here
 - [x] [Roman to decimal](roman/README.md)
 - [X] [Matrix effect](matrix/README.md)
 - [x] [Memory game](memory/README.md)
-- [ ] Binary to decimal
-- [ ] Hangman game
+- [x] [Binary to decimal](binary_to_decimal/README.md)
 - [ ] QR Code Generator
+- [ ] Hangman game
 - [ ] Paint
 - [ ] Mario Jump
 - [ ] Star Wars Intro
